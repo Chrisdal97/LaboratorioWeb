@@ -5,3 +5,7 @@ proyecto de tareas de la materia App Web
 ## git status
 ese comando nos permite visualizar el estado de los archivos en todo el git
 
+git add 
+git commit
+git push
+git checkout
