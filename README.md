@@ -9,3 +9,4 @@ git add
 git commit
 git push
 git checkout
+ como hacer camnios a mi origin
